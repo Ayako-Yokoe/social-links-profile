@@ -4,14 +4,14 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ## Table of contents
 
--   [Overview](#overview)
-    -   [The challenge](#the-challenge)
-    -   [Screenshot](#screenshot)
-    -   [Links](#links)
--   [My process](#my-process)
-    -   [Built with](#built-with)
-    -   [What I learned](#what-i-learned)
-    -   [Continued development](#continued-development)
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
 
 ## Overview
 
@@ -21,20 +21,20 @@ It was challenging to make the list items span the full width of the card.
 
 ### Screenshot
 
-![375px](./screenshot.jpg)
-![1440px](./screenshot.jpg)
+![375px](./assets/images/375px.jpeg)
+![1440px](./assets/images/1440px.jpeg)
 
 ### Links
 
--   Solution URL: [Add solution URL here](https://your-solution-url.com)
--   Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/Ayako-Yokoe/social-links-profile)
+- Live Site URL: [Add live site URL here](https://social-link-profile-dusky.vercel.app/)
 
 ## My process
 
 ### Built with
 
--   Semantic HTML5 markup
--   CSS custom properties
+- Semantic HTML5 markup
+- CSS custom properties
 
 ### What I learned
 
@@ -44,18 +44,19 @@ To see how you can add code snippets, see below:
 
 ```css
 ul {
-    width: 100%;
-    ...;
+  width: 100%;
+  ...;
 }
 
 li {
-    display: block;
-    width: 100%;
-    ...;
+  display: block;
+  width: 100%;
+  ...;
 }
 ```
 
 ### Continued development
 
 I plan to continue learning more about setting width properties and optimizing layout techniques.
+
 # social-links-profile
